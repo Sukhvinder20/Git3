@@ -1,0 +1,7 @@
+.JETEmitters/ 
+.Java/ 
+.metadata/ 
+LOCAL_PROJECT/code/routines/system/*.* 
+LOCAL_PROJECT/temp/ 
+LOCAL_PROJECT/sqlPatterns/ 
+LOCAL_PROJECT/talend.project
